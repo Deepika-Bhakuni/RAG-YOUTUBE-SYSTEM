@@ -14,25 +14,20 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-## Application Screenshots
-
 ### Chat Interface
-![Chat Interface](screenshots/chat_page.png)
+![Chat Interface](../screenshots/chat_page.png)
 
-### Asking a Question
-![Asking a Question](screenshots/ask_question.png)
-
-### AI Answer with Timestamp
-![AI Answer](screenshots/answer.png)
+### AI Answer
+![AI Answer](../screenshots/answer.png)
 
 ### Video Library
-![Video Library](screenshots/video_library.png)
+![Video Library](../screenshots/video_library.png)
 
 ### Summary Generation
-![Summary Generation](screenshots/summary_generation.png)
+![Summary Generation](../screenshots/summary_generation.png)
 
 ### Saved Summaries
-![Saved Summaries](screenshots/summaries.png)
+![Saved Summaries](../screenshots/summaries.png)
 
 ### Dark Theme
-![Dark Theme](screenshots/dark_theme.png)
+![Dark Theme](../screenshots/dark_theme.png)
