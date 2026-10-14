@@ -1,0 +1,21 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Node.js
+node_modules/
+dist/
+
+# Secrets
+.env
+.env.*
+!.env.example
+backend/.env
+
+# Logs
+*.log
+
+# Generated audio
+voice_input.wav

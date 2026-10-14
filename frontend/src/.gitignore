@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# API keys and environment variables
+.env
+.env.*
+!.env.example
+backend/.env
+
+# Frontend dependencies and build output
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
