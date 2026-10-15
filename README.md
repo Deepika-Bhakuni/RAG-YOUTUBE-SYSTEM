@@ -110,3 +110,25 @@ API keys and other secrets must remain in local environment files and must never
 Deepika Bhakuni
 
 GitHub: https://github.com/Deepika-Bhakuni
+## Application Screenshots
+
+### Chat Interface
+![Chat Interface](screenshots/chat_page.png)
+
+### AI Answer
+![AI Answer](screenshots/answer.png)
+
+### Ask a Question
+![Ask a Question](screenshots/ask_question.png)
+
+### Video Library
+![Video Library](screenshots/video_library.png)
+
+### Summary Generation
+![Summary Generation](screenshots/summary_generation.png)
+
+### Saved Summaries
+![Saved Summaries](screenshots/summaries.png)
+
+### Dark Theme
+![Dark Theme](screenshots/dark_theme.png)
